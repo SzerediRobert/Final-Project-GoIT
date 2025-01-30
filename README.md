@@ -1,2 +1,2 @@
-Title: Final Project GoIT 
+Title: Testing the Kapusta application
 Description:
